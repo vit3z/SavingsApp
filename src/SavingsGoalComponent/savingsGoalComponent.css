@@ -1,0 +1,14 @@
+.cardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 82%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.savingsGoalCard {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  /* background-color: AliceBlue; */
+  /* background-color: #3c4349; */
+  background-color: #394454;
+}
+
+body > #root {
+  height: 100vh;
+  background-color: #394454;
+}
+
+.navigation {
+  width: 11%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+}

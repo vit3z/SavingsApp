@@ -1,0 +1,32 @@
+.tableDiv {
+  width: 70%;
+  margin: auto;
+}
+
+.totalRoundup {
+  color: white;
+  background-color: #343a40;
+  height: 50px;
+  width: 45%;
+  margin-top: -1%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 50px;
+}
+
+.customerName {
+  color: white;
+  background-color: #343a40;
+  height: 50px;
+  width: 20%;
+  margin-bottom: 0%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 50px;
+}
